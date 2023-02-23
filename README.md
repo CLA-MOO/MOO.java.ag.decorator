@@ -1,5 +1,22 @@
 # Proyecto - Notificador (Decorador)
 
+# Diagrama de clases
+[Editor en línea](https://mermaid.live/)
+```mermaid
+---
+title: Clase
+---
+classDiagram
+      class Clase
+      Clase: -x
+      Clase: -y
+      Clase: +op1()
+      Clase: +op2()
+      Clase: +op3()
+      Clase: +op4()
+```
+[Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
+
 [Página original de este proyecto](https://refactoring.guru/es/design-patterns/decorator)
 
 Imagina que estás trabajando en una biblioteca de notificaciones que permite a otros programas notificar a sus usuarios acerca de eventos importantes.
